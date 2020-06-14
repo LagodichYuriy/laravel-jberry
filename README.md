@@ -4,7 +4,7 @@ Rest API implementation on Laravel 7.0.
 
 Main features:
 * Migrations and Faker Factory (./database/migrations);
-* Seeding (./database/seeds)
+* Seeding (./database/seeds);
 * Traits (./app/Traits);
 * Observers (./app/Observers).
 
